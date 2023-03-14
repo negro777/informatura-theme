@@ -20,7 +20,8 @@ if ( ! defined( 'ABSPATH' ) ) {
 	<link rel="profile" href="https://gmpg.org/xfn/11">
 	<?php wp_head(); ?>
 </head>
-<body <?php body_class(); ?>>
+<body <?php body_class(); ?>> 
+	<div>tema mofificado header</div>
 
 <?php hello_elementor_body_open(); ?>
 
